@@ -2,15 +2,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
-- 🎓 Final-Year B.Tech Student Specializing in Computer Science Engineering 
+- Final-Year Student pursuing B.Tech in Computer Science Engineering
 
-- 🌱 Currently learning Java and Full Stack Web Development (MERN)  
+- 🌱 Currently learning Java and Frontend Web Development 
 
-- 💬 Let’s connect over HTML, CSS, JavaScript, and React topics  
+- 🤖 Exploring Artificial Intelligence & Machine Learning (AI/ML)
 
-- 🌐 I like to Contributor at Various type of projects
+- 💬 Let’s connect over HTML, CSS, JavaScript, React, and Machine Learning topics
 
-- 💡 Looking for a Fullstack Developer internship opportunity!
+- 🌐 Contributor to various types of projects and always eager to collaborate
+
+- 💡 Looking for a Frontend Web Developer / AI-ML Internship opportunity!
 
 - 📍 Based in Gujarat, India!
 
