@@ -23,8 +23,6 @@
 <div align="center" style="line-height: 1.6;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="TypeScript" />
-  <img width="8" />
   <img src="https://img.shields.io/badge/HTML5-E44D26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML5" />
   <img width="8" />
   <img src="https://img.shields.io/badge/CSS3-264DE4?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS3" />
@@ -32,12 +30,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="TailwindCSS" />
   <img width="8" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="Node.js" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="Express.js" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="MongoDB" />
   <img width="8" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="MySQL" />
   <img width="8" />
@@ -48,8 +40,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" alt="VS Code" />
   <img width="8" />
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="NPM" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Vercel" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" alt="Netlify" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="30" alt="Canva" />
