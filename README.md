@@ -4,7 +4,7 @@
 
 - 🎓 Final-Year Student pursuing B.Tech in Computer Science Engineering
 
-- 🌱 Currently learning Java and Frontend Web Development 
+- 🌱 Currently learning JavaScript and Frontend Web Development 
 
 - 🤖 Exploring Artificial Intelligence & Machine Learning (AI/ML)
 
